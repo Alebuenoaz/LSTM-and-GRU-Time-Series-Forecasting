@@ -4,13 +4,14 @@
 On the Google Colab platform:
 - Import the .ipynb file
 - Add the BANKEX.csv file to the files section
+- Add the Activities.csv file to the files section
 - Run all the cells
 
 ## License
 
 MIT License
 
-Copyright (c) [2021] [Pedro Brañez, Alejandro Bueno, Rodrigo Heredia, Mateo Lopez & Gissel Velarde]
+Copyright (c) [2021] [Gissel Velarde, Pedro Brañez, Alejandro Bueno, Rodrigo Heredia, & Mateo Lopez]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
