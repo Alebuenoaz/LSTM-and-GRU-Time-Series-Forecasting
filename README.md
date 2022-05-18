@@ -4,7 +4,7 @@
 On the Google Colab platform:
 - Import the .ipynb file
 - Add the BANKEX.csv file to the files section
-- Add the Activities.csv file to the files section
+- Add the activities.csv file to the files section
 - Run all the cells
 
 ## License
